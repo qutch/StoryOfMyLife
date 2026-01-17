@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-
-public class PlayerControllerTester : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     public InputAction MoveAction;
     Rigidbody2D rigidbodyElement;
