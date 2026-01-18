@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ScenarioA.unity
     guid: 71e8bcf610d1247878d4e7ebd9e6be39
   - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 6ec14bda9f20d45f28f9ee0f3c90be3e
+  - enabled: 1
     path: Assets/Scenes/ScenarioB.unity
     guid: 5d46379b32cad4a458a587cebbb89d33
   - enabled: 1
