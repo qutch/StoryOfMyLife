@@ -249,12 +249,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::IntroTextController
   lines:
-  - 
+  - . . .
   - "I don\u2019t remember who I am."
   - 'Not my name,
 
     Not my past,'
-  - 
+  - . . .
   - Not my language.
   - What I have instead are fragments . . .
   - 'Places that feel familiar,
@@ -265,9 +265,9 @@ MonoBehaviour:
     Uncovers more about the present.'
   - '. . . '
   - Use WASD to move
-  - And press e to enter important locations
-  typingSpeed: 0.04
-  lineDelay: 1.5
+  - And press e to interact with the world
+  typingSpeed: 0.035
+  lineDelay: 0.8
   nextSceneName: MainMap
 --- !u!114 &870210754
 MonoBehaviour:
