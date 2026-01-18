@@ -789,7 +789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fddf02efed254a4e9fdca77027a0307, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AIManager
-  targetLanguage: Korean
+  targetLanguage: 
 --- !u!4 &395339336
 Transform:
   m_ObjectHideFlags: 0
